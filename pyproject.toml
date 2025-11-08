@@ -9,6 +9,7 @@ dependencies = [
     "cvxpy>=1.7.3",
     "ipykernel>=7.1.0",
     "ipython>=9.7.0",
+    "jupyter-analysis-tools>=1.6.2",
     "matplotlib>=3.10.7",
     "osqp>=1.0.5",
     "pandas>=2.3.3",
