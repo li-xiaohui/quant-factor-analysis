@@ -12,6 +12,8 @@ Simple and yet modular (functioins) base to start off.
 
 2. `idea_analysis.ipynb` gen with `chatgpt`
 
+The one for demo
+
 ## Prompt
 
 ```text
